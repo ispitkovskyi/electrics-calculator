@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\bin\Release\ElectroCalculator.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\bin\Release\ElectroCalculator.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\bin\Release\ElectroCalculator.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ElectroCalculator\ElectroCalculator\obj\Release\ElectroCalculator.pdb
